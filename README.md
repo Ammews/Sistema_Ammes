@@ -14,7 +14,13 @@ Sobre o RPG:
           Pense na seguinte analogia, antes das Bases, usar magia era como encher um balde de água, entretanto, você não possui o balde, e atualmente as Bases servem para essa função, servir como um molde, assim como o balde, facilitando a formação de uma magia.
 
 ---
-##
+
+
+
+Isso é uma aproximação do mapa, todos são conectados por portais de tele transporte feito com éter
+
+No centro está o mundo de Éter, nele, está o Tesseract, que reza a lenda dos habitantes desse mundo realizar qualquer desejo que o usuário quiser
+
          Terra
            |
            | 
@@ -22,11 +28,6 @@ Sobre o RPG:
            |
            |
           Fogo
-
-
-Isso é uma aproximação do mapa, todos são conectados por portais de tele transporte feito com éter
-
-No centro está o mundo de Éter, nele, está o Tesseract, que reza a lenda dos habitantes desse mundo realizar qualquer desejo que o usuário quiser
 
 ---
 
