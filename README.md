@@ -14,6 +14,7 @@ Sobre o RPG:
           Pense na seguinte analogia, antes das Bases, usar magia era como encher um balde de água, entretanto, você não possui o balde, e atualmente as Bases servem para essa função, servir como um molde, assim como o balde, facilitando a formação de uma magia.
 
 ---
+##
          Terra
            |
            | 
